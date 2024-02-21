@@ -19,5 +19,5 @@ Materiais públicos da disciplina de Prática Avançada de Data Science e Visual
 
 **Obs**: O plano poderá ser modificado com base no feedback de vocês.
 
-## [Slides](https://padsInsper.github.io/202332-padsv/slides/)
+## [Slides](https://jtrecenti.github.io/202431-padsv/slides/)
 

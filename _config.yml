@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+logo: logo.png
+title: "PADS Insper"
+show_downloads: true
+link_material: 'https://github.com/jtrecenti/202431-padsv/releases/tag/dados'
