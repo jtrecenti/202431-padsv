@@ -60,7 +60,7 @@ Utilizaremos a base de dados da **olist**, para que vocês possam aproveitar os 
 
 ::: incremental
 
--   Para garantir que as visualizações funcionam, disponibilizei uma base que eu montei (pode conter erros) [no material dos labs](https://github.com/padsInsper/202233-padsv/raw/main/material.zip).
+-   Para garantir que as visualizações funcionam, disponibilizei uma base que eu montei (pode conter erros) [no material dos labs](https://github.com/jtrecenti/202431-padsv/releases/tag/dados).
 
 -   A base está tanto em `.parquet` (usar pacote [`{arrow}`](https://arrow.apache.org/docs/r/)) quanto em `.rds` (ler com `readr::read_rds()`). Use a que for mais confortável.
 
